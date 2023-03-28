@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-ruby-one.vercel.app/api?username=Dom88Finch&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Dom88Finch&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dom88Finch&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Dom88Finch&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
