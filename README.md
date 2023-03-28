@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Trading Algorithms and analysing time series using AI algorithms.<br>🤝 I’m looking for help with landing a Tech Role.<br>🌱 I’m currently learning to create low-latency applications<br>💬 Ask me about sports and trading algorithms<br>⚡ Great quote  "Great things start from humble beginnings"- Francis Drake<br>
+🤝 I’m looking for help with landing a Tech Role either as a Software engineer, Data Analyst/Scientist <br>👯 I’m looking to collaborate on Trading Algorithms and analysing time series using AI algorithms.<br>🌱 I’m currently learning to create low-latency applications<br>💬 Ask me about sports and trading algorithms<br>⚡ Great quote  "Great things start from humble beginnings"- Francis Drake<br>
 
 
 # 💻 Tech Stack:
